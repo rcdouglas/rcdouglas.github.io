@@ -29,6 +29,16 @@ h1.services {
   margin: 4px;
   padding: 4px;
 }
+.tender {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #92d050;
+}
+.life {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #00b0f0;
+}
 .body-text {
   font-family: 'Roboto';
   font-size: 12px;
